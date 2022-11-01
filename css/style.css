@@ -367,7 +367,6 @@ grid-column-start: span 2;
 @media (max-width:1140px) {
     .section__galery__container{
         grid-template-columns: repeat(auto-fit,minmax(280px,1fr));
-        grid-auto-rows: 100%;
         
     }
     .section__productos{
